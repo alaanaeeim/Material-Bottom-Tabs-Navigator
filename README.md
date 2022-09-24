@@ -1,10 +1,10 @@
-# Bottom Tab Bar Navigations Mobile App React Native Cli
+# Material Bottom Tab Bar Navigations Mobile App React Native Cli
 
 ## Description
 
 This is [React Native Project].
 
-It is a Bottom Tab Bar Navigations screen for Ios and Android App.
+It is a Material Bottom Tab Bar Navigations screen for Ios and Android App.
 
 The app is built with React Native and was developed and tested for **IOS && Android**.
 
