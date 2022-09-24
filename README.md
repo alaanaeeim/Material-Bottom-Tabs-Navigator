@@ -4,7 +4,7 @@
 
 This is [React Native Project].
 
-It is a Material Bottom Tab Bar Navigations screen for Ios and Android App.
+It is a Material Bottom Tab Bar Navigations Example for Ios and Android App.
 
 The app is built with React Native and was developed and tested for **IOS && Android**.
 
